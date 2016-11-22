@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCrawler", "WebCrawler\WebCrawler.csproj", "{341FE9B3-CB1E-4A57-BBF2-EF4E6F931B6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebProvider", "WebProvider\WebProvider.csproj", "{852E11D7-1558-493E-A26A-47F8D1ECF4C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCrawlerLib", "WebCrawlerLib\WebCrawlerLib.csproj", "{46361192-CA5B-49FA-A788-DB6307B208C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{341FE9B3-CB1E-4A57-BBF2-EF4E6F931B6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{341FE9B3-CB1E-4A57-BBF2-EF4E6F931B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{341FE9B3-CB1E-4A57-BBF2-EF4E6F931B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{341FE9B3-CB1E-4A57-BBF2-EF4E6F931B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{852E11D7-1558-493E-A26A-47F8D1ECF4C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{852E11D7-1558-493E-A26A-47F8D1ECF4C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{852E11D7-1558-493E-A26A-47F8D1ECF4C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{852E11D7-1558-493E-A26A-47F8D1ECF4C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46361192-CA5B-49FA-A788-DB6307B208C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46361192-CA5B-49FA-A788-DB6307B208C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46361192-CA5B-49FA-A788-DB6307B208C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46361192-CA5B-49FA-A788-DB6307B208C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
